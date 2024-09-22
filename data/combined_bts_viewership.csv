@@ -27,7 +27,7 @@ Thailand,407031,-1.72,6513716,-1.63,2473684,-11.25,71668011
 Turkey,113419,0.11,0,0,0,0,87473805
 Ukraine,0,0,0,0,951411,1.88,37860221
 United Kingdom,182067,-0.01,0,0,1117934,6.63,69138192
-United States,614189,-0.15,17601990,-6.41,7397340,1.83,345426571
+United States of America,614189,-0.15,17601990,-6.41,7397340,1.83,345426571
 Vietnam,242633,-0.92,0,0,1879108,12.72,100987686
 Andorra,0,0,0,0,0,0,81938
 United Arab Emirates,0,0,0,0,0,0,11027129
@@ -36,9 +36,9 @@ Antigua and Barbuda,0,0,0,0,0,0,93772
 Anguilla,0,0,0,0,0,0,14598
 Albania,0,0,0,0,0,0,2791765
 Armenia,0,0,0,0,0,0,2973840
-Netherlands Antilles,0,0,0,0,0,0,
+Netherlands Antilles,0,0,0,0,0,0,0
 Angola,0,0,0,0,0,0,37885849
-Antarctica,0,0,0,0,0,0,
+Antarctica,0,0,0,0,0,0,0
 American Samoa,0,0,0,0,0,0,46765
 Austria,0,0,0,0,0,0,9120813
 Aruba,0,0,0,0,0,0,108066
@@ -60,8 +60,8 @@ Bhutan,0,0,0,0,0,0,791524
 Botswana,0,0,0,0,0,0,2521139
 Belarus,0,0,0,0,0,0,9056696
 Belize,0,0,0,0,0,0,417072
-Cocos [Keeling] Islands,0,0,0,0,0,0,
-DR Congo,0,0,0,0,0,0,109276265
+Cocos [Keeling] Islands,0,0,0,0,0,0,0
+Democratic Republic of the Congo,0,0,0,0,0,0,109276265
 Central African Republic,0,0,0,0,0,0,5330690
 Republic of the Congo,0,0,0,0,0,0,6332961
 Switzerland,0,0,0,0,0,0,8921981
@@ -73,7 +73,7 @@ Costa Rica,0,0,0,0,0,0,5129910
 Cuba,0,0,0,0,0,0,10979783
 Cape Verde,0,0,0,0,0,0,524877
 Curacao,0,0,0,0,0,0,185482
-Christmas Island,0,0,0,0,0,0,
+Christmas Island,0,0,0,0,0,0,0
 Cyprus,0,0,0,0,0,0,1358282
 Czech Republic,0,0,0,0,0,0,10735859
 Germany,0,0,0,0,0,0,84552242
@@ -107,7 +107,7 @@ Guinea,0,0,0,0,0,0,14754785
 Guadeloupe,0,0,0,0,0,0,375106
 Equatorial Guinea,0,0,0,0,0,0,1892516
 Greece,0,0,0,0,0,0,10047817
-South Georgia and the South Sandwich Islands,0,0,0,0,0,0,
+South Georgia and the South Sandwich Islands,0,0,0,0,0,0,0
 Guatemala,0,0,0,0,0,0,18406359
 Guam,0,0,0,0,0,0,167777
 Guinea-Bissau,0,0,0,0,0,0,2201352
